@@ -3,14 +3,14 @@ name: Gilberto A Garcia Jr
 email: gilbertoagarciajr@gmail.com
 keywords: "Software Engineer, Python, SQL, Agile"
 skills: "Software Engineer in Chicago, IL"
-baseurl: #CaptainOmNoms.github.io
+baseurl: CaptainOmNoms.github.io
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # You should replace these with your social networks, of course. :)
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/garcia-gilberto/
-  - title: GitHub
+  - title: github
     url: https://github.com/CaptainOmNoms
 
 # Google webmaster tools
