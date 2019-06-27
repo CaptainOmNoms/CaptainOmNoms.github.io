@@ -13,18 +13,12 @@ social:
   - title: github
     url: https://github.com/CaptainOmNoms
 
-# Google webmaster tools
-google_verify:
-
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
-
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: ADADAD
   primary-rgb: "173, 173, 173"
   secondary: 88BBD6
-  secondary-dark: 99D3DF
+  secondary-dark: 666666
   section-tout: ADADAD 
 
 
