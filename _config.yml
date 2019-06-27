@@ -15,11 +15,11 @@ social:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: ADADAD
-  primary-rgb: "173, 173, 173"
-  secondary: 88BBD6
-  secondary-dark: 666666
-  section-tout: ADADAD 
+  primary: 1174c2
+  primary-rgb: "17, 116, 194"
+  secondary: 285172
+  secondary-dark: 29455b
+  section-tout: eaf1f1
 
 
 
